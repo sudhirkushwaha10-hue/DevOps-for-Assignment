@@ -1,0 +1,4 @@
+cube_side = 5
+volumn =(cube_side*6)
+print("the volumn of cube is:",volumn)
+
