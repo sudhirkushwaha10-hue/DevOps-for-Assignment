@@ -5,7 +5,7 @@ print(f"Before Swapping chart2: {"java"}")
 
 n= char1
 char1= char2
-char2= n
+char2= n  
 
 print("--------------------------------")
 print(f"After Swapping char1:{char1}")

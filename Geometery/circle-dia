@@ -1,0 +1,3 @@
+r=14
+diameter=r*2
+print("diameter of circle is:", diameter)

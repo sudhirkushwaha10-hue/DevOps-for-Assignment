@@ -1,7 +1,11 @@
 n1=20
 n2=30
-print(f"Before swapping value of n1 is : {n1}")
-print(f"Before swapping value of n2 is : {n2}")
+
+print(n1)
+print(n2)
+
+print(f"Before swapping value of n1 is  {n1}")
+print(f"Before swapping value of n2 is  {n2}")
 print()
 print()
 

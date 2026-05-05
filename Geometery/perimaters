@@ -1,0 +1,3 @@
+side=9
+perimater =side*4
+print("perimeter of Square is:", perimater)
