@@ -1,0 +1,5 @@
+cart_items=int(input("enter the initial items:"))
+final_item = cart_items+3
+
+
+print("final items after increatment is:",final_item)

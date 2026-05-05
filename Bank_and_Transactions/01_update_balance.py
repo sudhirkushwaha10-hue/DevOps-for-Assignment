@@ -11,3 +11,4 @@ print()
 
 current_balance= current_balance + deposite_balance
 print(f"Now Current amount is : {current_balance}")
+balance= 12000
