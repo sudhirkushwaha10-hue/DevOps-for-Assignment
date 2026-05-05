@@ -1,0 +1,4 @@
+initial_value =200
+final_value =250
+percantage_change =((final_value - initial_value) / initial_value) * 100
+print(f"percantage_change is:", percantage_change,"%")
