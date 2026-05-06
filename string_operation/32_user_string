@@ -1,0 +1,15 @@
+Name="sudhir"
+Age=25
+City="varanasi"
+Hobby="Cooking"
+print("Name of Person :",Name)
+print("his age:",Age)
+print("He belongs to :",City)
+print()
+print("""Meet sudhir, a 25-year-old enthusiast from Varanasi.
+When not busy with daily tasks, sudhir loves spending time playing.
+Life in varanasi keeps sudhir energetic and curious every single day.
+With coding as a passion, the future looks creative and inspiring for
+Dev in the varanasi City.""")
+
+

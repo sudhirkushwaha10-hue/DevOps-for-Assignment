@@ -1,0 +1,22 @@
+a=6
+b=2
+print('value of side1 is a')
+print('value of side2 is b')
+output=(a+b)*(a-b)
+print("(a+b)*(a-b) is:", output )
+
+x=10
+y=6
+print('value of side1 is x')
+print('value of side2 is y')
+output=(x - y)**2
+print("(x-y)**2 is:", output )
+
+x=4
+y=1
+print('value of side1 is x')
+print('value of side2 is y')
+output=(x - y)**3
+print("(x-y)**3 is:", output)
+
+

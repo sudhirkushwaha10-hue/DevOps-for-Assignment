@@ -1,0 +1,29 @@
+# a=input("enter name of persion:")
+# b=input("enter profession of persion:")
+# c=input("enter favourite Quote of person:")
+# d=input("Enter experience of person:")
+
+
+# print("name of persion is:",a)
+# print("enter profession of persion:",)
+# print("enter favourite Quote of person:",)
+# print("enter experience of persion:",)
+
+# print(_*20)
+
+a=("movie name:")
+b=("viewer name:")
+c=("Show Time:")
+d=("Seat Number:")
+print("🎬Movie Ticket🎫")
+print()
+
+print("movie names:")
+print("viewer name:")
+print("Show Time:")
+print("Seat Number:")
+
+
+
+
+
