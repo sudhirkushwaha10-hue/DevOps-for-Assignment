@@ -1,0 +1,9 @@
+l=4
+b=3
+h=2
+print("lenth of cuboid is:", 4)
+print("base of cuboid is:", 3)
+print("height of cuboid is:", 2)
+
+a=2*l*b+2*b*h+2*h*l
+print("surface area of cuboid is:",a)

@@ -1,0 +1,4 @@
+x=3
+print(input("value of X is:",))
+solution=(x**2-4*x+4)
+print("solution of Equation is:", solution )

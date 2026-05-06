@@ -1,0 +1,6 @@
+x=5
+y=7
+z=(x+y)**2
+print(f"lenth of sqaure is: {5}")
+print(f"base of square is: {7}")
+print("square of sum is :", z)
