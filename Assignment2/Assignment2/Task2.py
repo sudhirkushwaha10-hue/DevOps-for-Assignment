@@ -1,0 +1,10 @@
+P1=int(input("runs made by Player1:",))
+P2=int(input("runs made by Player2:",))
+P3=int(input("runs made by Player3:",))
+P4=int(input("runs made by Player4:",))
+P5=int(input("runs made by Player5:",))
+total_run=(P1+P2+P3+P4+P5)
+Avr_run=(total_run/5)
+
+print("Total run made by Players:",total_run)
+print("Total Average of all Players:",Avr_run)
